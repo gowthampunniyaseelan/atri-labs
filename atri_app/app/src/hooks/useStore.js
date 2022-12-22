@@ -85,6 +85,48 @@ const desktopModeProps = {
     "Flex23": {
       "callbacks": {}
     },
+    "Flex24": {
+      "callbacks": {}
+    },
+    "Flex25": {
+      "callbacks": {}
+    },
+    "Flex26": {
+      "callbacks": {}
+    },
+    "Flex27": {
+      "callbacks": {}
+    },
+    "Flex28": {
+      "callbacks": {}
+    },
+    "Flex29": {
+      "callbacks": {}
+    },
+    "Flex30": {
+      "callbacks": {}
+    },
+    "Flex31": {
+      "callbacks": {}
+    },
+    "Flex34": {
+      "callbacks": {}
+    },
+    "Flex33": {
+      "callbacks": {}
+    },
+    "Flex36": {
+      "callbacks": {}
+    },
+    "Flex35": {
+      "callbacks": {}
+    },
+    "Flex32": {
+      "callbacks": {}
+    },
+    "Flex37": {
+      "callbacks": {}
+    },
     "TextBox1": {
       "custom": {
         "text": ""
@@ -464,9 +506,9 @@ const desktopModeProps = {
     },
     "UnorderedList1": {
       "custom": {
-        "type": "circle",
+        "type": "disc",
         "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
+        "descriptionColor": "#000",
         "items": [
           {
             "title": "",
@@ -474,6 +516,635 @@ const desktopModeProps = {
             "icon": ""
           }
         ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox30": {
+      "custom": {
+        "text": "Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList4": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList5": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "custom": {
+        "text": "Front-end Development"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox31": {
+      "custom": {
+        "text": "Sketch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList2": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox32": {
+      "custom": {
+        "text": "Thankfully, I'm multilingual."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox33": {
+      "custom": {
+        "text": "tools to do the perfect job."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox34": {
+      "custom": {
+        "text": "Every designer needs the right"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox35": {
+      "custom": {
+        "text": "Applications I'm fluent in"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList7": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox43": {
+      "custom": {
+        "text": "Webflow"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList8": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox44": {
+      "custom": {
+        "text": "Figma"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox36": {
+      "custom": {
+        "text": "What you can expect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox37": {
+      "custom": {
+        "text": "I design products that are more"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox38": {
+      "custom": {
+        "text": "make them shippable"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "and usable."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList3": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox40": {
+      "custom": {
+        "text": "Clean and functional"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList9": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox45": {
+      "custom": {
+        "text": "Device and user friendly"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList10": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#000",
+        "items": [
+          {
+            "title": "",
+            "description": "",
+            "icon": ""
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox46": {
+      "custom": {
+        "text": "Efficient and maintainable"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox47": {
+      "custom": {
+        "text": "PROJECTS"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox48": {
+      "custom": {
+        "text": "I bring results."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox49": {
+      "custom": {
+        "text": "My clients are proof."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button6": {
+      "custom": {
+        "text": "View all projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox50": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox51": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox52": {
+      "custom": {
+        "text": "Soulful Rebranding"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox53": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image7": {
+      "custom": {
+        "alt": "right arrow",
+        "src": "/app-assets/right-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox57": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image8": {
+      "custom": {
+        "alt": "right arrow",
+        "src": "/app-assets/right-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox54": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox55": {
+      "custom": {
+        "text": "Datadash Product Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox56": {
+      "custom": {
+        "text": "PRODUCT DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox61": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image9": {
+      "custom": {
+        "alt": "right arrow",
+        "src": "/app-assets/right-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox58": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox59": {
+      "custom": {
+        "text": "Maize Web"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox60": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image10": {
+      "custom": {
+        "alt": "left arrow",
+        "src": "/app-assets/left-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image11": {
+      "custom": {
+        "alt": "right arrow",
+        "src": "/app-assets/right-arrow%20(1).png"
       },
       "callbacks": {
         "onClick": [
