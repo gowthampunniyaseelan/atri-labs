@@ -1,0 +1,106 @@
+*{
+padding: 5px;
+}
+.p-Home.TextBox7{
+  background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%) !important;
+  -webkit-text-fill-color: transparent !important;
+  -webkit-background-clip: text !important;
+}
+.p-Home.TextBox2:hover{
+color: grey;
+}
+.p-Home.TextBox3:hover{
+color: grey;
+  
+}
+.p-Home.TextBox4:hover{
+color: grey;
+  
+}
+.p-Home.TextBox5:hover{
+color: grey;
+  
+}
+.p-Home.TextBox6:hover{
+color: grey;
+  
+}
+.p-Home.TextBox1{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/6078ab3cfa1bca879adb93d1_Group%2070.svg") !important;
+  object-fit: contain;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
+.p-Home.Div1{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/60ad1c2b0e1d633fc7ef2e69_Group%20160-min.jpg") !important;
+  object-fit: contain;
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+.p-Home.Button3{
+    color: #fff;
+    line-height: 100%;
+    padding: 20px;
+    border: none;
+    margin-left: 50px;
+    background-color: #000000;
+}
+.p-Home.Button4{
+  background-color: transparent;
+  border: none;
+}
+.p-Home.TextBox15{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/6078b0cd748b8581836fddf5_Group%20334.png");
+  background-repeat: no-repeat;
+  background-size: 150px;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+.p-Home.TextBox16{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/6078b0ccdbeafadf1a24d34a_Group%20333.png");
+  background-repeat: no-repeat;
+  background-size: 150px;
+  margin-left: 50px;
+}
+.p-Home.TextBox17{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/6078b0c238e88c2e55fe84cf_Group%20335.png");
+  background-repeat: no-repeat;
+  background-size: 150px;
+  margin-left: 50px;
+}
+.p-Home.TextBox18{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/6078b0c235209438ffca029b_Group%20336.png");
+  background-repeat: no-repeat;
+  background-size: 150px;
+  margin-left: 50px;
+}
+.p-Home.TextBox19{
+  background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%) !important;
+  -webkit-text-fill-color: transparent !important;
+  -webkit-background-clip: text !important;
+}
+.p-Home.TextBox22{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/5fef584362e74acfa6b75398_Group%2051.svg");
+  background-repeat: no-repeat;
+  background-size: 70px;
+}
+.p-Home.TextBox23{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/5fef5843b6409375f7c23f2b_Group%2017.svg");
+  background-repeat: no-repeat;
+  background-size: 70px;
+  margin-left: 380px;
+}
+.p-Home.TextBox24{
+  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/5fef58435ceaed068dde60ca_Group%2016.svg");
+  background-repeat: no-repeat;
+  background-size: 70px;
+  margin-left: 400px;
+}
+.p-Home.Flex21{
+  z-index: -1;
+}
+.p-Home.Flex23{
+  z-index: 1;
+  margin-top: -100px;
+  margin-left: 30px;
+}
