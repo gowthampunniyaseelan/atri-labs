@@ -1,10 +1,12 @@
 {
   "BarChart": 1,
-  "Flex": 37,
-  "TextBox": 61,
+  "Flex": 97,
+  "TextBox": 213,
   "Accordion": 1,
-  "Image": 11,
-  "Div": 1,
+  "Image": 20,
+  "Div": 3,
   "Button": 6,
-  "UnorderedList": 10
+  "UnorderedList": 10,
+  "Link": 1,
+  "Dropdown": 9
 }
